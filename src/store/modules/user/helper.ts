@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'about:blank',
-      name: 'Yang',
+      name: '',
       description: 'Star on <a href="about:blank" class="text-blue-500" target="_blank" >Github</a>',
     },
   }
